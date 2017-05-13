@@ -1,6 +1,6 @@
 # Blind-Friendly Kitchen
 
-## Internet of Things Final Project
+## Final Project, Internet of Things, Spring 2017
 
 ### Group Members
 **Kuang Yang** (ky2342) & **Zijun Hao** (zh2282) & **Jingyue Liu** (jl4753)<br>
